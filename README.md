@@ -34,4 +34,4 @@
 3. Будет создан файл `wordpress_import.xml`, который можно импортировать в WordPress через "Инструменты → Импорт".
 
 ## Автор
-Разработчик: **mrgunkin**
+Разработчик: **[mrgunkin](https://github.com/mrgunkin)**
